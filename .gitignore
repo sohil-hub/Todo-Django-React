@@ -1,0 +1,5 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+/Users/mohammedsohilshaikh/Study/React/To-Do-Django-React/frontend/node_modules
